@@ -65,4 +65,4 @@
 // console.log(gameCounter++); // postfix - will print first and then increase
 // console.log(++gameCounter); // prefix - will increase first and then print
 
-//changes
+// changes made
